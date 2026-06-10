@@ -5,6 +5,10 @@ title: "Paid inquiry: subscription audit and savings prep pack"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Prefilled inquiry page: https://jaxassistant55.github.io/subscription-audit-savings-starter/inquiry.html
+
 ## Buyer Request
 
 - Subscription categories:
