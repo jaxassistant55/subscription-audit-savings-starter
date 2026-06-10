@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaxassistant55.github.io/subscription-audit-savings-starter/sitemap.xml
