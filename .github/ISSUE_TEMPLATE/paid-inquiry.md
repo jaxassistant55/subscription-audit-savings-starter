@@ -7,6 +7,7 @@ labels: paid-inquiry, needs-scope
 
 ## Fastest Buyer Links
 
+- Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/subscription-audit-savings-starter/inquiry.html
 
 ## Buyer Request
