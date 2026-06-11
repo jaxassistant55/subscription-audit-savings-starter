@@ -5,6 +5,7 @@ Free public preview for a fixed-scope Subscription Audit and Savings Prep Pack.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/subscription-audit-and-savings-prep-pack.html
+- Structured ready-to-pay issue form: https://github.com/jaxassistant55/subscription-audit-savings-starter/issues/new?template=ready-to-pay-subscription-audit-savings-starter.yml
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/subscription-audit-savings-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/subscription-audit-savings-starter/demo/
